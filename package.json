@@ -1,0 +1,25 @@
+{
+  "name": "snake",
+  "version": "0.0.1",
+  "description": "My snake game in TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "start": "parcel serve src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jomik/snake.git"
+  },
+  "author": "Jonas Holst Damtoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jomik/snake/issues"
+  },
+  "homepage": "https://github.com/Jomik/snake#readme",
+  "dependencies": {
+    "@types/lodash": "^4.14.120",
+    "lodash": "^4.17.11",
+    "parcel-bundler": "^1.11.0",
+    "typescript": "^3.2.4"
+  }
+}
